@@ -9,11 +9,11 @@ For my final group project in my Data Programming in R class, I had the opportun
   
  - Predictions (Project was completed before All-NBA teams were announced)
     - 1st Team
-    Nikola Jokic (C)
-    Giannis Antetokounmpo (F)
-    Jayson Tatum (F)
-    Trae Young (G)
-    Luka Doncic (G)
+      - Nikola Jokic (C)
+      - Giannis Antetokounmpo (F)
+      -  Jayson Tatum (F)
+      - Trae Young (G)
+      - Luka Doncic (G)
     - 2nd Team
     Joel Embiid (C)
     Kevin Durant (F)
