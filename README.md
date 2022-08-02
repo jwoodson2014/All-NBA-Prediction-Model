@@ -8,19 +8,19 @@ For my final group project in my Data Programming in R class, I had the opportun
   - The model predicts 3 centers, 6 forwards, and 6 guards
   
  - Predictions (Project was completed before All-NBA teams were announced)
-  - 1st Team
+    - 1st Team
     Nikola Jokic (C)
     Giannis Antetokounmpo (F)
     Jayson Tatum (F)
     Trae Young (G)
     Luka Doncic (G)
-  - 2nd Team
+    - 2nd Team
     Joel Embiid (C)
     Kevin Durant (F)
     LeBron James (F)
     Stephen Curry (G)
     Dejounte Murray (G)
-  - 3rd Team
+    - 3rd Team
     Karl-Anthony Towns (C)
     Jimmy Butler (F)
     DeMar DeRozan (F)
